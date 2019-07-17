@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205038069940",
+    "firebase_url": "https://ghanastartupsgps.firebaseio.com",
+    "project_id": "ghanastartupsgps",
+    "storage_bucket": "ghanastartupsgps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205038069940:android:95b6e72e0d122ae0",
+        "android_client_info": {
+          "package_name": "com.alc4.ghanastartupsgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205038069940-k9vosqsfsj8ljbmah5dq3nksn1997mfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alc4.ghanastartupsgps",
+            "certificate_hash": "154a04afff4c4187ad8753a86b90a55126c0690f"
+          }
+        },
+        {
+          "client_id": "205038069940-1semqo4965ogci5jghljhqlrhu46o9rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDZH1FZqDKWWcgynrQD21gWTN0Y8zVGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205038069940-1semqo4965ogci5jghljhqlrhu46o9rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
